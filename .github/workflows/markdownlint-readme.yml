@@ -11,6 +11,7 @@ on:
       - profile/README.md
       - .markdownlint.yaml
       - .github/workflows/markdownlint-readme.yml
+  workflow_dispatch:
 
 jobs:
   markdownlint:
