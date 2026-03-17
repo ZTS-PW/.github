@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="ZTS-projects-showcase.jpg" alt="Elektronika zbudowana przez koło" width="40%"  />
+  <img src="ZTS-projects-showcase.jpg" alt="Elektronika zbudowana przez koło" width="80%"  />
 </div>
 
 Jesteśmy kołem naukowym działającym przy Politechnice Warszawskiej, skupiającym się na praktycznej nauce i realizacji projektów **DIY**. Naszym głównym obszarem działań jest elektronika, druk 3D oraz inne technologie napędzane zainteresowaniami członków. 
@@ -30,7 +30,7 @@ Ta organizacja na GitHubie to nasze centralne repozytorium. Służy do wersjonow
 <h1 id="english-version" align="center">DIY Student Club</h1>
 
 <div align="center">
-  <img src="ZTS-projects-showcase.jpg" alt="Elektronika zbudowana przez koło" width="40%"  />
+  <img src="ZTS-projects-showcase.jpg" alt="Elektronika zbudowana przez koło" width="80%"  />
 </div>
 
 We are a student-run research club at the Warsaw University of Technology, focused on practical learning and building **DIY** projects. Our core activities revolve around electronics, 3D printing, and other technologies driven by our members' passions.
