@@ -28,6 +28,5 @@ jobs:
 
       - name: Run markdownlint on profile README
         run: |
-          npx --yes markdownlint-cli@0.39.0 \
-            profile/README.md \
-            --config .markdownlint.yaml
+          npx --yes markdownlint-cli \
+            profile/README.md
