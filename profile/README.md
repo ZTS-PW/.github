@@ -37,7 +37,8 @@ Służy do wersjonowania, przechowywania i udostępniania kodu źródłowego wyk
   <img src="ZTS-projects-showcase.jpg" alt="Elektronika zbudowana przez koło" width="80%"  />
 </div>
 
-We are a student-run research club at the Warsaw University of Technology, focused on practical learning and building **DIY** projects. Our core activities revolve around electronics, 3D printing, and other technologies driven by our members' passions.
+We are a student-run research club at the Warsaw University of Technology, focused on practical learning and building **DIY** projects.
+Our core activities revolve around electronics, 3D printing, and other technologies driven by our members' passions.
 
 This GitHub organization is our central code repository. It is used for versioning, storing, and sharing the source code that powers our hardware and educational initiatives.
 
