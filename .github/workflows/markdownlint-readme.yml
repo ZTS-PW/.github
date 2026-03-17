@@ -1,0 +1,32 @@
+name: Lint Profile README
+
+on:
+  pull_request:
+    paths:
+      - profile/README.md
+      - .markdownlint.yaml
+      - .github/workflows/markdownlint-readme.yml
+  push:
+    paths:
+      - profile/README.md
+      - .markdownlint.yaml
+      - .github/workflows/markdownlint-readme.yml
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: lts/*
+
+      - name: Run markdownlint on profile README
+        run: |
+          npx --yes markdownlint-cli@0.39.0 \
+            profile/README.md \
+            --config .markdownlint.yaml
