@@ -8,3 +8,4 @@ no-inline-html:
     - a
     - img
     - br
+no-trailing-spaces: false
