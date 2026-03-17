@@ -1,0 +1,10 @@
+---
+line-length:
+  line_length: 200
+no-inline-html:
+  allowed_elements:
+    - h1
+    - div
+    - a
+    - img
+    - br
