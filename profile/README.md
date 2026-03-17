@@ -1,7 +1,7 @@
 <h1 align="center">Koło Naukowe Zrób To Sam</h1>
 
 <div align="center">
-  <a href="#english-version">🇬🇧 Switch to English</a>
+  <a href="#english-version">🇬🇧 English version</a>
 </div>
 
 ---
@@ -27,12 +27,13 @@ Ta organizacja na GitHubie to nasze centralne repozytorium. Służy do wersjonow
 
 ### 🔗 Linki
 * [Facebook - KN Zrób To Sam](https://www.facebook.com/kn.zrobtosam)
+* [Instagram - kn_zrobmytorazem](https://www.instagram.com/kn_zrobmytorazem)
 
 <br>
 
 ---
 
-<h1 id="english-version" align="center">Zrób To Sam (DIY) Student Club</h1>
+<h1 id="english-version" align="center">DIY Student Club</h1>
 
 <div align="center">
   <img src="ZTS-projects-showcase.jpg" alt="Elektronika zbudowana przez koło" width="40%"  />
@@ -49,3 +50,4 @@ This GitHub organization is our central code repository. It is used for versioni
 
 ### 🔗 Links
 * [Facebook - KN Zrób To Sam](https://www.facebook.com/kn.zrobtosam)
+* [Instagram - kn_zrobmytorazem](https://www.instagram.com/kn_zrobmytorazem)
